@@ -14,8 +14,8 @@ import sys
 import datetime
 import speedtest
 
-SECRET_WORD = "hello"
-APP_PASSWORD = "any"
+SECRET_WORD = ""
+APP_PASSWORD = ""
 LOCKED_APPS = set()
 LOCKED_WEBSITES = set()
 
